@@ -41,6 +41,26 @@
       }
     ]
   },
+  "address-book": {
+    "tags": [
+      "address",
+      "book"
+    ],
+    "icons": [
+      {
+        "code": "0xf353",
+        "name": "ios-address-book"
+      },
+      {
+        "code": "0xf353",
+        "name": "ios-address-book-outline"
+      },
+      {
+        "code": "0xf3ab",
+        "name": "md-address-book"
+      }
+    ]
+  },
   "alarm": {
     "tags": [
       "alarm"

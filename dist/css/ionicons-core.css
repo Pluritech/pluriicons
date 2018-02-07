@@ -1,6 +1,6 @@
 @charset "UTF-8";
 /*!
-  Ionicons, v3.0.0-alpha.3
+  Ionicons, v3.0.1
   Created by Ben Sperry for the Ionic Framework, http://ionicons.com/
   https://twitter.com/benjsperry  https://twitter.com/ionicframework
   MIT License: https://github.com/driftyco/ionicons
@@ -10,6 +10,8 @@
   used under CC BY http://creativecommons.org/licenses/by/4.0/
   Modified icons to fit ionicon’s grid from original.
 */
+.ion-address-book-outline:before { content: "\f352"; }
+
 .ion-ios-add:before { content: "\f102"; }
 
 .ion-ios-add-circle:before { content: "\f101"; }
@@ -17,6 +19,10 @@
 .ion-ios-add-circle-outline:before { content: "\f100"; }
 
 .ion-ios-add-outline:before { content: "\f102"; }
+
+.ion-ios-address-book:before { content: "\f353"; }
+
+.ion-ios-address-book-outline:before { content: "\f353"; }
 
 .ion-ios-alarm:before { content: "\f3c8"; }
 
@@ -1285,6 +1291,8 @@
 .ion-md-add:before { content: "\f273"; }
 
 .ion-md-add-circle:before { content: "\f272"; }
+
+.ion-md-address-book:before { content: "\f3ab"; }
 
 .ion-md-alarm:before { content: "\f274"; }
 

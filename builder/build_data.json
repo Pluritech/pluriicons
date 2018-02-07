@@ -1,8 +1,12 @@
 {
-  "build_hash": "259c592d7dc03e4169a4ca133ea2a34d",
+  "build_hash": "b76ad3696ad28574165b77f04012e5a1",
   "prefix": "ion-",
   "name": "Ionicons",
   "icons": [
+    {
+      "code": "0xf352",
+      "name": "address-book-outline"
+    },
     {
       "code": "0xf102",
       "name": "ios-add"
@@ -18,6 +22,14 @@
     {
       "code": "0xf102",
       "name": "ios-add-outline"
+    },
+    {
+      "code": "0xf353",
+      "name": "ios-address-book"
+    },
+    {
+      "code": "0xf353",
+      "name": "ios-address-book-outline"
     },
     {
       "code": "0xf3c8",
@@ -2554,6 +2566,10 @@
     {
       "code": "0xf272",
       "name": "md-add-circle"
+    },
+    {
+      "code": "0xf3ab",
+      "name": "md-address-book"
     },
     {
       "code": "0xf274",

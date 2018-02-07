@@ -1,7 +1,7 @@
 {
-  "name": "ionicons",
+  "name": "@pluritech/mynewicons",
   "description": "Premium icons for Ionic.",
-  "version": "3.0.0-alpha.3",
+  "version": "3.0.1",
   "files": ["dist"],
   "keywords": ["ionicons", "ionic", "icon", "svg", "font", "mobile"],
   "homepage": "http://ionicons.com/",
