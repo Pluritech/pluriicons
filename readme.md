@@ -1,5 +1,8 @@
-# Ionicons
+# Pluriicons
 
+this repository is a clone from ionicons. We from Pluritech need to include some icons in our projects that should be compatible with ionic-angular components.
+
+## Ionicons
 
 Premium icons for [Ionic](http://ionicframework.com/). Designed by [@benjsperry](https://twitter.com/benjsperry).
 
