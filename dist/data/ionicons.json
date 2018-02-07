@@ -52,12 +52,23 @@
         "name": "ios-address-book"
       },
       {
-        "code": "0xf353",
+        "code": "0xf3ac",
         "name": "ios-address-book-outline"
       },
       {
         "code": "0xf3ab",
         "name": "md-address-book"
+      }
+    ]
+  },
+  "agita": {
+    "tags": [
+      "agita"
+    ],
+    "icons": [
+      {
+        "code": "0xf3ad",
+        "name": "logo-agita"
       }
     ]
   },

@@ -1,6 +1,6 @@
 @charset "UTF-8";
 /*!
-  Ionicons, v3.0.1
+  Ionicons, v3.0.2
   Created by Ben Sperry for the Ionic Framework, http://ionicons.com/
   https://twitter.com/benjsperry  https://twitter.com/ionicframework
   MIT License: https://github.com/driftyco/ionicons
@@ -22,7 +22,7 @@
 
 .ion-ios-address-book:before { content: "\f353"; }
 
-.ion-ios-address-book-outline:before { content: "\f353"; }
+.ion-ios-address-book-outline:before { content: "\f3ac"; }
 
 .ion-ios-alarm:before { content: "\f3c8"; }
 
@@ -1191,6 +1191,8 @@
 .ion-ios-woman:before { content: "\f271"; }
 
 .ion-ios-woman-outline:before { content: "\f270"; }
+
+.ion-logo-agita:before { content: "\f3ad"; }
 
 .ion-logo-android:before { content: "\f225"; }
 

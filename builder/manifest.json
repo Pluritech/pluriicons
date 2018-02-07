@@ -1,5 +1,5 @@
 {
-  "build_hash": "b499421caf9c842c35067ea73c305416",
+  "build_hash": "da45e1397fdeeda756338cd97a1a61ed",
   "prefix": "ion-",
   "name": "Ionicons",
   "icons": [
@@ -22,6 +22,10 @@
     {
       "code": "0xf353",
       "name": "ios-address-book"
+    },
+    {
+      "code": "0xf3ac",
+      "name": "ios-address-book-outline"
     },
     {
       "code": "0xf3c8",
@@ -2058,6 +2062,10 @@
     {
       "code": "0xf270",
       "name": "ios-woman-outline"
+    },
+    {
+      "code": "0xf3ad",
+      "name": "logo-agita"
     },
     {
       "code": "0xf225",
