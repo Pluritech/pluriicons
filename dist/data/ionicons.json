@@ -6718,6 +6718,25 @@
       }
     ]
   },
+  "wheelchair": {
+    "tags": [
+      "wheelchair"
+    ],
+    "icons": [
+      {
+        "code": "0xf351",
+        "name": "ios-wheelchair"
+      },
+      {
+        "code": "0xf351",
+        "name": "ios-wheelchair-outline"
+      },
+      {
+        "code": "0xf350",
+        "name": "md-wheelchair"
+      }
+    ]
+  },
   "wifi": {
     "tags": [
       "bars",

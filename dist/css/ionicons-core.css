@@ -1170,6 +1170,10 @@
 
 .ion-ios-water-outline:before { content: "\f26a"; }
 
+.ion-ios-wheelchair:before { content: "\f351"; }
+
+.ion-ios-wheelchair-outline:before { content: "\f351"; }
+
 .ion-ios-wifi:before { content: "\f26d"; }
 
 .ion-ios-wifi-outline:before { content: "\f26c"; }
@@ -1871,6 +1875,8 @@
 .ion-md-watch:before { content: "\f3a6"; }
 
 .ion-md-water:before { content: "\f3a7"; }
+
+.ion-md-wheelchair:before { content: "\f350"; }
 
 .ion-md-wifi:before { content: "\f3a8"; }
 

@@ -1,5 +1,5 @@
 {
-  "build_hash": "259c592d7dc03e4169a4ca133ea2a34d",
+  "build_hash": "b76ad3696ad28574165b77f04012e5a1",
   "prefix": "ion-",
   "name": "Ionicons",
   "icons": [
@@ -2024,6 +2024,10 @@
       "name": "ios-water-outline"
     },
     {
+      "code": "0xf351",
+      "name": "ios-wheelchair"
+    },
+    {
       "code": "0xf26d",
       "name": "ios-wifi"
     },
@@ -3426,6 +3430,10 @@
     {
       "code": "0xf3a7",
       "name": "md-water"
+    },
+    {
+      "code": "0xf350",
+      "name": "md-wheelchair"
     },
     {
       "code": "0xf3a8",
